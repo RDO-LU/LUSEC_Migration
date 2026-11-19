@@ -1,0 +1,14 @@
+site_name: LUSEC Migration
+nav:
+    - Home: index.md
+    #- Svenska: index-sv.md
+    
+theme: readthedocs
+
+markdown_extensions:
+  - admonition
+#  - attr_list
+#  - md_in_html
+#  - pymdownx.blocks.caption
+#  - pymdownx.details
+#  - pymdownx.superfences
